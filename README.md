@@ -46,6 +46,24 @@ This project analyzes a bank's direct marketing campaign to identify the factors
 ### Dashboard Preview
 <img width="593" height="334" alt="dashboard png" src="https://github.com/user-attachments/assets/4ba50672-f68d-4597-bf33-fb2489229314" />
 
+### SQL Analysis
 
+Before building the dashboard, I used PostgreSQL to clean, query, and analyze the data. The SQL analysis included:
+
+1. Customer counts
+
+2. Subscription rate calculations
+
+3. Job category analysis
+
+4. Education analysis
+
+5. Campaign performance
+
+6. Contact method analysis
+
+7. Loan analysis
+
+The insights generated from SQL were later visualized in Power BI as outlined above.
 
 
