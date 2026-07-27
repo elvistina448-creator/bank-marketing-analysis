@@ -44,6 +44,8 @@ This project analyzes a bank's direct marketing campaign to identify the factors
 -Cellular contact had the highest subscription rate.
 
 ### Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="593" height="334" alt="dashboard png" src="https://github.com/user-attachments/assets/4ba50672-f68d-4597-bf33-fb2489229314" />
+
+
 
 
