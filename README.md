@@ -1,9 +1,9 @@
 # bank-marketing-analysis
-Interactive Power BI dashboard analyzing a bank marketing campaign using PostgreSQL, SQL, and DAX.
+Power BI dashboard analyzing a bank marketing campaign using PostgreSQL, SQL, and DAX.
 ## Bank Marketing Campaign Performance Dashboard
 ### Project Overview
 
-This project analyzes a bank's direct marketing campaign to identify the factors influencing customer subscription to term deposits. The dashboard was built using Power BI, with data stored in PostgreSQL and analyzed using SQL and DAX.
+This project analyzes a bank's direct marketing campaign to identify the factors influencing customer subscription to term deposits. The dashboard is built using Power BI, with data stored in PostgreSQL and analyzed using SQL and DAX.
 
 ### Tools Used
 - Power BI
